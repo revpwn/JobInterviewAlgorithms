@@ -1,4 +1,4 @@
-// Writen by JGFM4
+// Written by JGFM4
 // Last update: 2018-02-20
 
 public class FizzBuzz{

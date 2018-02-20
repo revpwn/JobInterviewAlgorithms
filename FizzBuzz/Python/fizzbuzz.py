@@ -1,4 +1,4 @@
-# Writen by JGFM4
+# Written by JGFM4
 # Last update: 2018-02-20
 
 for i in (range(1,100)):
