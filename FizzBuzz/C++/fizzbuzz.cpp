@@ -14,21 +14,20 @@ following.
  submit a pull request.
 */
 #include <iostream>
-using namespace std;
 
 int main() {
 	for(int i = 1; i <= 100; i++){
 		if(i % 15 == 0){
-			cout << "FIZZBUZZ" << endl;
+			std::cout << "FIZZBUZZ" << std::endl;
 		}
 		else if(i % 3 == 0){
-			cout << "FIZZ" << endl;
+			std::cout << "FIZZ" << std::endl;
 		}
 		else if(i % 5 == 0){
-			cout << "BUZZ" << endl;
+			std::cout << "BUZZ" << std::endl;
 		}
 		else{
-			cout << i << endl;
+			std::cout << i << std::endl;
 		}
 	}
 	return 0;
