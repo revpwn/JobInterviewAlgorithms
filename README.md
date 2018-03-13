@@ -7,3 +7,5 @@ solution for a different language, feel free to submit a [pull request](https://
 
 # Algorithms
 * [FizzBuzz](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/FizzBuzz)
+* [Duplicate In List](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/DuplicateInList)
+* [String Rotation](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/StringRotation)
