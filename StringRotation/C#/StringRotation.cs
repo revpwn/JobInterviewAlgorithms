@@ -1,13 +1,5 @@
 using System;
 
-/*
- * I encountered this question at a recent interview, I was asked the following:
- * 
- * Write a function that when given a string and a non-negative number, it rotates the given amount.
- * Ex. "abcd", 1 => "bcda"
- * Ex. "abcd", 6 => "cdab"
- */
-
 namespace StringRotation
 {
     class Program
