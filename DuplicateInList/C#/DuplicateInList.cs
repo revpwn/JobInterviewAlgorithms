@@ -1,17 +1,6 @@
 using System;
 using System.Collections.Generic;
 
-/*
- * I have a friend that encountered this question at a recent interview, a commmon first approach is
- * using nested for loop, however; to be most correct use a method of hashing. The problem was introduced as the following:
- * 
- * You are provided with a class Node that contains the properties: int data and Node next. Write a function named FindDuplicate
- * that takes in the head of a linked list. If the list contains any duplicates return the number, otherwise return -1.
- * 
- * Ex. [1] -> [2] -> [3] -> [4]         ===> -1
- * Ex. [1] -> [2] -> [3] -> [3] -> [4]  ===>  3
- */
-
 namespace DuplicateInList
 {
     //  Linked List Node Class

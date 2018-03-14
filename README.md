@@ -9,3 +9,4 @@ solution for a different language, feel free to submit a [pull request](https://
 * [FizzBuzz](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/FizzBuzz)
 * [Duplicate In List](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/DuplicateInList)
 * [String Rotation](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/StringRotation)
+* [Reverse Each Index](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseEachIndex)
