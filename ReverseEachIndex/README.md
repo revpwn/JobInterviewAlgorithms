@@ -4,7 +4,7 @@ In this algorithm you are tasked with writing a function that takes in an array 
 of each of the indexes contents.
 
 ---
-**Examples:***
+**Examples:**
 * Array that is given: `["Reverse", "my", "order"]`
 * Expected Output: `["esreveR", "ym", "redro"]`
 
