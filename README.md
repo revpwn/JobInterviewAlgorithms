@@ -10,3 +10,4 @@ solution for a different language, feel free to submit a [pull request](https://
 * [Duplicate In List](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/DuplicateInList)
 * [String Rotation](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/StringRotation)
 * [Reverse Each Index](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseEachIndex)
+* [Reverse String](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseString)
