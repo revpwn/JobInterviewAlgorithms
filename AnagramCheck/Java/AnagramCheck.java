@@ -1,4 +1,4 @@
-public class Anagrams {
+public class AnagramCheck {
 
   public static void main(String[] args){
     //some test cases
