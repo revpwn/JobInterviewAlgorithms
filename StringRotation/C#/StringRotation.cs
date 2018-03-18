@@ -14,7 +14,7 @@ namespace StringRotation
             // Get remainder in case shiftAmount > str.Length
             shiftAmount = shiftAmount % str.Length;
 
-            // Seperate the string into two halves at the index shiftAmount
+            // Separate the string into two halves at the index shiftAmount
             str = str.Substring(shiftAmount) + str.Substring(0, shiftAmount);
 
             return str;
