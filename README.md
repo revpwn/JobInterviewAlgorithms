@@ -6,8 +6,9 @@ files that coincide with different programming languages' solutions. If you woul
 solution for a different language, feel free to submit a [pull request](https://github.com/AustinTice/JobInterviewAlgorithms/pulls).
 
 # Algorithms
-* [FizzBuzz](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/FizzBuzz)
+* [Anagram Check](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/AnagramCheck)
 * [Duplicate In List](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/DuplicateInList)
-* [String Rotation](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/StringRotation)
+* [FizzBuzz](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/FizzBuzz)
 * [Reverse Each Index](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseEachIndex)
 * [Reverse String](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseString)
+* [String Rotation](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/StringRotation)
