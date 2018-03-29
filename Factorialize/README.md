@@ -1,6 +1,6 @@
 # Factorialize
 **Problem Definition:** 
-Write a function that takes a number as an argument and return its factorial value.
+Write a function that takes a number as an argument and return its factorialized value.
 
 ---
 **Examples:**
