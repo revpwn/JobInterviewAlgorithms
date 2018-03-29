@@ -8,6 +8,7 @@ solution for a different language, feel free to submit a [pull request](https://
 # Algorithms
 * [Anagram Check](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/AnagramCheck)
 * [Duplicate In List](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/DuplicateInList)
+* [Factorial](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/Factorial)
 * [FizzBuzz](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/FizzBuzz)
 * [Reverse Each Index](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseEachIndex)
 * [Reverse String](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseString)
