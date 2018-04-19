@@ -2,6 +2,7 @@
 using namespace std;
 
 double sqrt(double);
+
 int main()
 {
 	// This should output 12
