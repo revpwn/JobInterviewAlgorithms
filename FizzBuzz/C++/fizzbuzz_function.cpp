@@ -1,5 +1,6 @@
 #include <iostream>
 
+// prototype
 void fizz_buzz(int);
 
 int main()
