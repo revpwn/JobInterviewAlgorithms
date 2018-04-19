@@ -4,4 +4,6 @@ function factorial(num) {
   return num * factorial(num-1);
 }
 
+// Test
+console.log(factorial(0));
 console.log(factorial(5));
