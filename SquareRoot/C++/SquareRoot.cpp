@@ -5,7 +5,7 @@ double sqrt(double);
 
 int main(){
 	// This should output 12
-	cout << sqrt(12) << endl;
+	cout << sqrt(144) << endl;
 	return 0;
 }
 
