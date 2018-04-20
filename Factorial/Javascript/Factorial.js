@@ -4,6 +4,6 @@ function factorial(num) {
   return num * factorial(num-1);
 }
 
-// Test
-console.log(factorial(0));
-console.log(factorial(5));
+// Tests
+console.log(factorial(0)); // => 1
+console.log(factorial(5)); // => 120
