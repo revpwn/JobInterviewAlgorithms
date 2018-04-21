@@ -5,7 +5,7 @@ using namespace std;
 // iterative version
 int factorialIter(int num){
 	int total = 1;
-	for (int i = num; i > 1; i--){
+	for(int i = num; i > 1; i--){
 		total *= i;
 	}
 	return total;
