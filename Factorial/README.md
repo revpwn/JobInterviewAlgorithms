@@ -10,4 +10,4 @@ Write a function that takes a number as an argument and return its factorial val
 
 ---
 **Notes:**
-* A common way of solving this problem is through recursion. 
+* Common ways of solving this problem are through Iteration or Recursion.
