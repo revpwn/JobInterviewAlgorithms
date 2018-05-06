@@ -13,7 +13,7 @@ It is possible to submit alternate solutions for an algorithm using the **same**
 2. Clear explanation must be provided in the Pull Request indicating why the proposed solution follows the previous criterion.
 3. A `README.md` must be created (if none exist) within the same directory as the proposed solution indicating the reasoning behind the alternate solution. _**NOTE:** The explanations provided in the `README.md` file shall not _compare_ solutions to one another._
 
-**NOTE:** _Before creating a Pull Request, please take a look at the Pull Request section below for details on naming conventions details._
+**NOTE:** _Before creating a Pull Request, please take a look at the Pull Request section below for details on naming conventions._
 
 # Pull Requests (PR)
 Please assure that the guidelines below are followed when submitting a PR.
