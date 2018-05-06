@@ -5,7 +5,7 @@ about: Suggest an algorithm
 ---
 
 **Algorithm**
-Algorithm Name: `Name`
+Name: `Name`
 
 Short Description: `A clear and concise description of the algorithm.`
 
