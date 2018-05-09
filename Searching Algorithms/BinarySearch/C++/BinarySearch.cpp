@@ -24,18 +24,18 @@ int main(){
 }
 
 int binarySearch(int arr[], int value, int size){
-	// first element we choose to search with
+	// first element we choose to search with.
 	int first = 0;
-	// last element we search through
+	// last element we search with.
 	int last = size - 1;
 	bool found = false;
-	// Current position in the array - or return -1 if not found
+	// Current position in the array - or return -1 if not found.
 	int pos = -1;
-	// Refers to the middle value of the array that we calculate below
+	// Refers to the middle value of the array that we calculate below.
 	int middle = 0;
 
 	while(found != true && first <= last){
-		//Determines the middle value, and since it is an int it will truncate any decimal values
+		//Determines the middle value, and since it is an int it will truncate any decimal values.
 		middle = (first+last)/2;
 		if(arr[middle] == value){
 			found = true;
