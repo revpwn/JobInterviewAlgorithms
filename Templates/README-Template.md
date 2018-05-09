@@ -3,7 +3,7 @@
 Definition of the algorithm/problem to be solved should be provided here
 
 ---
-**Examples:***
+**Examples:**
 * Examples provided as bulletpoints or a blocks of code.
 
 ---
