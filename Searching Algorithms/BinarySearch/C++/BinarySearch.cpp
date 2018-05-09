@@ -20,7 +20,6 @@ int main(){
 		int test[5] = {6,4,7,8,3} => binarySearch(test, 8, 5) => | pos = 4 |
 		int test[5] = {6,4,7,8,3} => binarySearch(test, 1, 5) => | pos = -1 |
 	*/
-
 }
 
 int binarySearch(int arr[], int value, int size){
