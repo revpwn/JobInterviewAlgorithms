@@ -1,5 +1,3 @@
-//  Copyright © 2018 Austin Tice. All rights reserved.
-
 for(let i = 1; i <= 100; i++){
   if(i % 15 === 0){
     console.log("FIZZBUZZ");

@@ -1,16 +1,12 @@
 using System;
 
-namespace StringRotation
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace StringRotation{
+    class Program{
+        static void Main(string[] args){
             Console.WriteLine(Rotate("abcd", 6));
         }
 
-        static string Rotate(string str, int shiftAmount)
-        {
+        static string Rotate(string str, int shiftAmount){
             // Get remainder in case shiftAmount > str.Length
             shiftAmount = shiftAmount % str.Length;
 
