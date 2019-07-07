@@ -8,6 +8,7 @@ solution for a different language, feel free to submit a [pull request](https://
 # Algorithms
 * [Anagram Check](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/AnagramCheck)
 * [Binary Search](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/Searching%20Algorithms/BinarySearch)
+* [Caesar Cipher](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/CaesarCipher)
 * [Duplicate In List](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/DuplicateInList)
 * [Factorial](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/Factorial)
 * [FizzBuzz](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/FizzBuzz)
