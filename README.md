@@ -1,9 +1,9 @@
 # JobInterviewAlgorithms
-A library of classic algorithms that you will find when interviewing for software engineering jobs.
+A library of classic algorithms that you will find **very** useful to study when interviewing for your next software engineering job.
 
-This libary consists of directories that contain classic job interview algorithms. Inside each folder there will be
+It consists of directories that contain classic job interview algorithms from all the top tech companies. Inside each folder there will be
 files that coincide with different programming languages' solutions. If you would like to write a new algorithm, or possibly add a new
-solution for a different language, feel free to submit a [pull request](https://github.com/AustinTice/JobInterviewAlgorithms/pulls).
+solution in a different language, feel free to submit a [pull request](https://github.com/AustinTice/JobInterviewAlgorithms/pulls).
 
 # Algorithms
 * [Anagram Check](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/AnagramCheck)
@@ -18,3 +18,5 @@ solution for a different language, feel free to submit a [pull request](https://
 * [Reverse String](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseString)
 * [Square Root](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/SquareRoot)
 * [String Rotation](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/StringRotation)
+
+If you'd like to add a new feature or report a problem with any of the existing solutions feel free to do so [here](https://github.com/AustinTice/JobInterviewAlgorithms/issues)
