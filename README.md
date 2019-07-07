@@ -13,6 +13,7 @@ solution for a different language, feel free to submit a [pull request](https://
 * [Factorial](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/Factorial)
 * [FizzBuzz](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/FizzBuzz)
 * [IsPrime](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/IsPrime)
+* [RecursiveLinearSearch](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/RecursiveLinearSearch)
 * [Reverse Each Index](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseEachIndex)
 * [Reverse String](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseString)
 * [Square Root](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/SquareRoot)
