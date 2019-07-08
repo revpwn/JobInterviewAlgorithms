@@ -14,7 +14,7 @@ solution in a different language, feel free to submit a [pull request](https://g
 * [FizzBuzz](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/FizzBuzz)
 * [IsPrime](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/IsPrime)
 * [Recursive Linear Search](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/RecursiveLinearSearch)
-* [Reverse Each Index](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseEachIndex)
+* [Reverse Each Index](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/Searching%20Algorithms/RecursiveLinearSearch)
 * [Reverse String](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/ReverseString)
 * [Square Root](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/SquareRoot)
 * [String Rotation](https://github.com/AustinTice/JobInterviewAlgorithms/tree/master/StringRotation)
